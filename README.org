@@ -1,0 +1,10 @@
+* glisph
+
+Glyph rendering engine using OpenGL shading language for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tamamu/glisph.git   |
+| commit  | 4fdefe9  |
+| systems | glisph |
+|---------+-------------------------------------------|
+
